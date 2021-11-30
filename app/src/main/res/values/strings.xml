@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab3_2</string>
+    <string name="to1">к первой</string>
+    <string name="to2">ко второй</string>
+    <string name="to3">к третьей</string>
+    <string name="menu1">about</string>
+</resources>
